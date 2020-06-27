@@ -1,0 +1,60 @@
+// font
+
+$heading-font-family: "Open Sans",
+"Helvetica Neue",
+sans-serif;
+$base-font-family: "Open Sans",
+"Helvetica Neue",
+sans-serif;
+// typography
+$font-size-small: 11px;
+$base-font-size: 16px;
+$nav-font-size: 15px;
+$btn-font-size: 13px;
+$btn-lg-font-size: 18px;
+$pre-font-size: 13px;
+$blockquote-font-size: 2.25rem;
+$blockquote-font-size-sm: 1.875rem;
+$font-size-h1: 3rem;
+$font-size-h2: 2rem;
+$font-size-h3: 1.75rem;
+$font-size-h4: 18px;
+$font-size-h5: 1.25rem;
+$font-size-h6: 18px;
+$font-size-h2-sm: 2rem;
+$font-size-h2-xs: 1.75rem;
+$font-size-h3-sm: 1.25rem;
+$font-size-h3-xs: 1.125rem;
+// line-height
+$blockquote-line-height: 1.16;
+$h1-line-height: 0;
+$h2-line-height: 1.125;
+$h3-line-height: 1.3;
+$h6-line-height: 1.27;
+$lead-line-height: 1.4;
+// letter-spacing
+$h2-letter-spacing: -0.025em;
+$h3-letter-spacing: -0.02em;
+$h4-letter-spacing: -0.005em;
+$h5-letter-spacing: -0.005em;
+$h6-letter-spacing: -0.005em;
+$pre-letter-spacing: 0.02em;
+$small-letter-spacing: 0.1em;
+// color
+$head-font-color: #472876;
+$brand-blue:#472876;
+$base-font-color: #87898c;
+$body-bg: white;
+$fill-grey: #87898c;
+$fill-grey-hover: darken($fill-grey,
+    15%) !default;
+// font-weight
+$base-font-weight: 400;
+$small-font-weight: 500;
+$btn-font-weight: 500;
+$headings-font-weight: 600;
+$sub-headings-font-weight: 500;
+// Border-radius 
+$btn-border-radius: 30px;
+// transition
+$transition: all 0.25s ease-in-out 0s;
